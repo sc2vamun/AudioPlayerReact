@@ -1,0 +1,10 @@
+.track {
+    border: 1px solid black;
+    margin: 5px;
+    height: 25px;
+}
+
+.track p {
+    margin: 0;
+    cursor: pointer;
+}
